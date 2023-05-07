@@ -1,0 +1,21 @@
+
+
+.picture {
+    background-image: url(".././assets/restaurant.jpg");
+    background-size: cover;
+}
+
+.enter {
+    background-color: rgba(2,18,17,255);
+    color: white;
+    
+}
+
+.welcome{
+    border: 1px solid white;
+    color: white;
+}
+
+.welcome:hover {
+    color: white;
+}

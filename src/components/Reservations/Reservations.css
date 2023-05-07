@@ -12,19 +12,18 @@
 }
 .contact-info{
     margin-top:10%;
+    font-family: Copperplate, Papyrus, fantasy;
     text-align: center;
+
 }
-.contact-info img{
-    margin-bottom: 15%;
-}
-.contact-info h2{
-    margin-bottom: 10%;
-}
+
+
 .col-md-8{
     background: #fff;
     padding: 3%;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 .contact-form label{
     font-weight:600;
